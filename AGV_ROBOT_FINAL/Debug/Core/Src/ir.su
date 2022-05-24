@@ -1,0 +1,6 @@
+ir.c:49:6:HAL_TIM_IC_CaptureCallback	16	static
+ir.c:117:6:check_ir_signal	8	static
+ir.c:134:6:check_ir1	24	static
+ir.c:170:6:check_ir2	24	static
+ir.c:203:6:HAL_TIM_PeriodElapsedCallback	16	static
+ir.c:214:6:read_ir	4	static

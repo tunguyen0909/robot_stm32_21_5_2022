@@ -1,0 +1,8 @@
+cmath:241:3:constexpr float std::fabs(float)	16	static
+kal_man.cpp:10:1:SimpleKalmanFilter::SimpleKalmanFilter(float, float, float)	24	static
+kal_man.cpp:17:7:float SimpleKalmanFilter::updateEstimate(float)	24	static
+kal_man.cpp:27:6:void SimpleKalmanFilter::setMeasurementError(float)	16	static
+kal_man.cpp:32:6:void SimpleKalmanFilter::setEstimateError(float)	16	static
+kal_man.cpp:37:6:void SimpleKalmanFilter::setProcessNoise(float)	16	static
+kal_man.cpp:42:7:float SimpleKalmanFilter::getKalmanGain()	16	static
+kal_man.cpp:46:7:float SimpleKalmanFilter::getEstimateError()	16	static
